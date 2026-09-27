@@ -1,0 +1,14 @@
+C:\Users\виктория\source\repos\BehavPatterns\bin\Debug\net8.0\BehavPatterns.exe
+C:\Users\виктория\source\repos\BehavPatterns\bin\Debug\net8.0\BehavPatterns.deps.json
+C:\Users\виктория\source\repos\BehavPatterns\bin\Debug\net8.0\BehavPatterns.runtimeconfig.json
+C:\Users\виктория\source\repos\BehavPatterns\bin\Debug\net8.0\BehavPatterns.dll
+C:\Users\виктория\source\repos\BehavPatterns\bin\Debug\net8.0\BehavPatterns.pdb
+C:\Users\виктория\source\repos\BehavPatterns\obj\Debug\net8.0\BehavPatterns.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\виктория\source\repos\BehavPatterns\obj\Debug\net8.0\BehavPatterns.AssemblyInfoInputs.cache
+C:\Users\виктория\source\repos\BehavPatterns\obj\Debug\net8.0\BehavPatterns.AssemblyInfo.cs
+C:\Users\виктория\source\repos\BehavPatterns\obj\Debug\net8.0\BehavPatterns.csproj.CoreCompileInputs.cache
+C:\Users\виктория\source\repos\BehavPatterns\obj\Debug\net8.0\BehavPatterns.dll
+C:\Users\виктория\source\repos\BehavPatterns\obj\Debug\net8.0\refint\BehavPatterns.dll
+C:\Users\виктория\source\repos\BehavPatterns\obj\Debug\net8.0\BehavPatterns.pdb
+C:\Users\виктория\source\repos\BehavPatterns\obj\Debug\net8.0\BehavPatterns.genruntimeconfig.cache
+C:\Users\виктория\source\repos\BehavPatterns\obj\Debug\net8.0\ref\BehavPatterns.dll
