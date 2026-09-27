@@ -1,0 +1,14 @@
+C:\Users\виктория\source\repos\StructPatterns\bin\Debug\net8.0\StructPatterns.exe
+C:\Users\виктория\source\repos\StructPatterns\bin\Debug\net8.0\StructPatterns.deps.json
+C:\Users\виктория\source\repos\StructPatterns\bin\Debug\net8.0\StructPatterns.runtimeconfig.json
+C:\Users\виктория\source\repos\StructPatterns\bin\Debug\net8.0\StructPatterns.dll
+C:\Users\виктория\source\repos\StructPatterns\bin\Debug\net8.0\StructPatterns.pdb
+C:\Users\виктория\source\repos\StructPatterns\obj\Debug\net8.0\StructPatterns.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\виктория\source\repos\StructPatterns\obj\Debug\net8.0\StructPatterns.AssemblyInfoInputs.cache
+C:\Users\виктория\source\repos\StructPatterns\obj\Debug\net8.0\StructPatterns.AssemblyInfo.cs
+C:\Users\виктория\source\repos\StructPatterns\obj\Debug\net8.0\StructPatterns.csproj.CoreCompileInputs.cache
+C:\Users\виктория\source\repos\StructPatterns\obj\Debug\net8.0\StructPatterns.dll
+C:\Users\виктория\source\repos\StructPatterns\obj\Debug\net8.0\refint\StructPatterns.dll
+C:\Users\виктория\source\repos\StructPatterns\obj\Debug\net8.0\StructPatterns.pdb
+C:\Users\виктория\source\repos\StructPatterns\obj\Debug\net8.0\StructPatterns.genruntimeconfig.cache
+C:\Users\виктория\source\repos\StructPatterns\obj\Debug\net8.0\ref\StructPatterns.dll
