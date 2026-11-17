@@ -1,0 +1,17 @@
+C:\Users\виктория\Downloads\ДЗ\ДЗ\bin\Debug\Проба.exe.config
+C:\Users\виктория\Downloads\ДЗ\ДЗ\bin\Debug\Проба.exe
+C:\Users\виктория\Downloads\ДЗ\ДЗ\bin\Debug\Проба.pdb
+C:\Users\виктория\Downloads\ДЗ\ДЗ\bin\Debug\EntityFramework.dll
+C:\Users\виктория\Downloads\ДЗ\ДЗ\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\виктория\Downloads\ДЗ\ДЗ\bin\Debug\EntityFramework.xml
+C:\Users\виктория\Downloads\ДЗ\ДЗ\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\виктория\Downloads\ДЗ\ДЗ\obj\Debug\Library.csproj.AssemblyReference.cache
+C:\Users\виктория\Downloads\ДЗ\ДЗ\obj\Debug\Library.Form1.resources
+C:\Users\виктория\Downloads\ДЗ\ДЗ\obj\Debug\Library.FormAddReader.resources
+C:\Users\виктория\Downloads\ДЗ\ДЗ\obj\Debug\Library.FormIssueLoan.resources
+C:\Users\виктория\Downloads\ДЗ\ДЗ\obj\Debug\Проба.Properties.Resources.resources
+C:\Users\виктория\Downloads\ДЗ\ДЗ\obj\Debug\Library.csproj.GenerateResource.cache
+C:\Users\виктория\Downloads\ДЗ\ДЗ\obj\Debug\Library.csproj.CoreCompileInputs.cache
+C:\Users\виктория\Downloads\ДЗ\ДЗ\obj\Debug\Library.csproj.Up2Date
+C:\Users\виктория\Downloads\ДЗ\ДЗ\obj\Debug\Проба.exe
+C:\Users\виктория\Downloads\ДЗ\ДЗ\obj\Debug\Проба.pdb

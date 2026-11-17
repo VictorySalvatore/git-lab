@@ -1,0 +1,11 @@
+C:\Users\виктория\source\repos\Проба\bin\Debug\Проба.exe.config
+C:\Users\виктория\source\repos\Проба\bin\Debug\Проба.exe
+C:\Users\виктория\source\repos\Проба\bin\Debug\Проба.pdb
+C:\Users\виктория\source\repos\Проба\obj\Debug\Проба.csproj.AssemblyReference.cache
+C:\Users\виктория\source\repos\Проба\obj\Debug\Проба.Form1.resources
+C:\Users\виктория\source\repos\Проба\obj\Debug\Проба.Properties.Resources.resources
+C:\Users\виктория\source\repos\Проба\obj\Debug\Проба.csproj.GenerateResource.cache
+C:\Users\виктория\source\repos\Проба\obj\Debug\Проба.csproj.CoreCompileInputs.cache
+C:\Users\виктория\source\repos\Проба\obj\Debug\Проба.exe
+C:\Users\виктория\source\repos\Проба\obj\Debug\Проба.pdb
+C:\Users\виктория\source\repos\Проба\obj\Debug\Проба.exe.config

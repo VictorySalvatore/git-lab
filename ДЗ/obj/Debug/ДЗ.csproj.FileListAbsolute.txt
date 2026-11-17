@@ -1,0 +1,15 @@
+C:\Users\виктория\source\repos\Проба\bin\Debug\Проба.exe.config
+C:\Users\виктория\source\repos\Проба\bin\Debug\Проба.exe
+C:\Users\виктория\source\repos\Проба\bin\Debug\Проба.pdb
+C:\Users\виктория\source\repos\Проба\obj\Debug\ДЗ.csproj.AssemblyReference.cache
+C:\Users\виктория\source\repos\Проба\obj\Debug\Проба.exe.config
+C:\Users\виктория\source\repos\Проба\obj\Debug\ДЗ.Form1.resources
+C:\Users\виктория\source\repos\Проба\obj\Debug\Проба.Properties.Resources.resources
+C:\Users\виктория\source\repos\Проба\obj\Debug\ДЗ.csproj.GenerateResource.cache
+C:\Users\виктория\source\repos\Проба\obj\Debug\ДЗ.csproj.CoreCompileInputs.cache
+C:\Users\виктория\source\repos\Проба\obj\Debug\Проба.exe
+C:\Users\виктория\source\repos\Проба\obj\Debug\Проба.pdb
+C:\Users\виктория\Downloads\ДЗ\ДЗ\obj\Debug\ДЗ.csproj.AssemblyReference.cache
+C:\Users\виктория\Downloads\ДЗ\ДЗ\obj\Debug\Проба.exe.config
+C:\Users\виктория\Downloads\ДЗ\ДЗ\obj\Debug\Проба.exe
+C:\Users\виктория\Downloads\ДЗ\ДЗ\obj\Debug\Проба.pdb
